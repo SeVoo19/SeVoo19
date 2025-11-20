@@ -2,7 +2,7 @@
 
 <h1>Welcome to my digital perimeter…</h1>
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Matrix Code" align="right" width="300"/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Matrix Code' align='right' width='300'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Seif%20Seadawy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seif-seadawy-01946838a/)
 [![Gmail Badge](https://img.shields.io/badge/-sevoos3dawwyy@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sevoos3dawwyy@gmail.com)
@@ -40,17 +40,11 @@ or the system controls you.
 <div align="left">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" title="Bash"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" title="Nmap"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp-suite/burp-suite-logo.svg" width="45" title="Burp Suite"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="45" title="Wireshark"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="45" title="Metasploit"/>
 
 </div>
@@ -69,7 +63,6 @@ or the system controls you.
 ---
 
 ## 🧑‍💻 Who am I?
-
 ```python
 class WhoAmI:
     user = "Seif Seadawy"
@@ -95,3 +88,10 @@ class WhoAmI:
             "capable of identifying, exploiting, and securing "
             "modern digital infrastructures."
         )
+```
+
+---
+
+## 🕶️ Final Words
+> **Security is not a tool…  
+It's a mindset that never switches off.**
